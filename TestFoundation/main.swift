@@ -46,6 +46,7 @@ XCTMain([
     TestNSScanner(),
     TestNSSet(),
     TestNSString(),
+    TestNSTimer(),
     TestNSTimeZone(),
     TestNSURL(),
     TestNSURLComponents(),
